@@ -5,5 +5,4 @@ Web service for water environment monitoring system
 ## Run service command
 > npm start OR node .\Server.js
 ## Require
-> Node.js
-> mysql
+> Node.js, mysql
