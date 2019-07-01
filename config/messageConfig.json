@@ -1,0 +1,19 @@
+{
+    "accountNotExist": "Tài khoản không tồn tại",
+    "accountPassIncorrect": "Mật khẩu không chính xác",
+    "accountIsLock": "Tài khoản đang bị khóa",
+    "accountCompareOldNewPass": "Mật khẩu không giống nhau",
+    "accountNotManager":"Người dùng không phải quản lý",
+    "objNotExist": "Đối tượng không tồn tại",
+    "objExist": "Đối tượng đã tồn tại",
+    "notFound": "Not Found",
+    "updateSuccess": "Cập nhật thành công",
+    "authUnSupport": "unsupported_grant_type",
+    "sinkStationNodFound": "Trạm không tồn tại",
+    "permissionDenied": "Từ chối truy cập",
+    "pondRiverNotNull": "Sông/ao nuôi không được rỗng",
+    "passwordNotNull": "Mật khẩu không được rỗng",
+    "numberExits": "Số thứ tự đã tồn tại",
+    "valueMinMax": "số liệu bất thường",
+    "sensorStationExits": "Trạm đã tồn tại sensor đo dữ liệu này"
+}
